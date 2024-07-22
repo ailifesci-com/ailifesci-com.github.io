@@ -1,1 +1,3 @@
-# ai-lifesci.github.io
+# ailifesci.com
+
+Web site for `www.ailifesci.com`.

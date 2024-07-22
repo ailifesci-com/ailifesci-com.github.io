@@ -1,0 +1,46 @@
+Proprietary Source Code License Agreement
+
+Copyright (c) 2024 AiLifeSci Co., Ltd.
+
+All rights reserved.
+
+THIS PROPRIETARY SOURCE CODE LICENSE AGREEMENT (the "Agreement") is made and entered into by and between AiLifeSci.com ("Licensor") and any individual or entity that accepts the terms and conditions of this Agreement ("Licensee").
+
+1. Grant of License.
+   Licensor grants to Licensee a non-exclusive, non-transferable, and limited license to use the Source Code (as defined below) solely for the purpose of internal development and testing purposes.
+
+   "Source Code" means the human-readable form of the software program, including all source code, documentation, and related materials, provided to Licensee by Licensor.
+
+2. Restrictions.
+   Licensee shall not:
+   a. Copy, distribute, or sublicense the Source Code, in whole or in part, except as expressly permitted under this Agreement.
+   b. Use the Source Code for any purpose other than as permitted under this Agreement.
+   c. Reverse engineer, decompile, disassemble, or attempt to derive the source code from the compiled binary form of the Source Code.
+   d. Publish, display, or disclose the Source Code, or any portion thereof, to any third party without the prior written consent of Licensor.
+
+3. Ownership and Intellectual Property Rights.
+   Licensor retains all right, title, and interest in and to the Source Code, including all intellectual property rights therein. Licensee shall not claim any ownership or intellectual property rights in the Source Code.
+
+4. Confidentiality.
+   Licensee agrees to maintain the Source Code in strict confidence and not to disclose the Source Code to any third party without the prior written consent of Licensor.
+
+5. Term and Termination.
+   This Agreement is effective as of the date Licensee first uses the Source Code and shall continue until terminated by either party. Licensor may terminate this Agreement at any time, with or without cause, upon written notice to Licensee. Upon termination, Licensee shall immediately cease use of the Source Code and return or destroy all copies of the Source Code in Licensee's possession.
+
+6. Warranty Disclaimer.
+   The Source Code is provided "as is" and without warranty of any kind. Licensor disclaims all warranties, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+7. Limitation of Liability.
+   In no event shall Licensor be liable for any damages, whether direct, indirect, incidental, special, or consequential, arising out of or in connection with this Agreement or the use of the Source Code.
+
+8. Governing Law and Jurisdiction.
+   This Agreement shall be governed by and construed in accordance with the laws of P.R.China, excluding its conflict of law principles. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of P.R.China.
+
+9. Entire Agreement.
+   This Agreement constitutes the entire agreement between the parties and supersedes all prior or contemporaneous agreements, understandings, and communications, whether written or oral, relating to the subject matter of this Agreement.
+
+By using the Source Code, Licensee acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions.
+
+AiLifeSci Co., Ltd.
+Guangzhou/Hangzhou, P.R.China
+AiLifeSci.com
